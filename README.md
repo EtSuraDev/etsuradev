@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm surafel meles</h1>
-<h3 align="center">A passionate frontend developer from ethiopia</h3>
+<h1 align="center">hello world i am surafel am frontend web developer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etsuradev&label=Profile%20views&color=0e75b6&style=flat" alt="etsuradev" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etsuradev" alt="etsuradev" /></a> </p>
 
 - 🌱 I’m currently learning **node.js**
 
