@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm surafel, a full-time full-stack freelance developer 👨‍💻 start learning since 2023 🚀</div>  
   
@@ -91,17 +88,6 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=etsuradev&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
   
 
