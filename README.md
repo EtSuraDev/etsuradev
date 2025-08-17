@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm a passionate developer who loves building cool projects and learning new technologies.  <br>Currently focused on Backend Development, DSA</h3>
+<h3 align="left">hey, I'm a passionate developer who loves building cool projects and learning new technologies.  <br>Currently focused on Backend Development, DSA</h3>
 
 ###
 
